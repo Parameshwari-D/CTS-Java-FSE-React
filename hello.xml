@@ -1,2 +1,4 @@
 <message>Hello from Master branch</message>
 <note>This is the master version</note>
+<message>Hello from GitWork branch</message>
+<note>Updated from GitWork branch</note>
